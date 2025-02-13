@@ -1,4 +1,4 @@
-## Date: January 31, 2025
+## Date: January 14, 2025
 
 # Assignment-01 Tasks
 1. Produce a randomly generated image using numpy
